@@ -1,11 +1,15 @@
 # Profile Card UI Design
-## [Watch it on youtube](https://youtu.be/M_eF5oUzilg)
-### Profile Card UI Design
+### BY TALO
 
 - Profile Card UI Design Using HTML CSS & JavaScript
 - Animated profile card with social media.
 - With a beautiful minimalist interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+### Contact
 
-![preview img](/preview.png)
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project is **free to use** and does not contains any license.
+
