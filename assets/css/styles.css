@@ -4,8 +4,8 @@
 :root {
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(29, 80%, 58%);
-  --first-color-light: hsl(29, 80%, 70%);
+  --first-color: hsl(241, 82%, 56%);
+  --first-color-light: hsl(224, 83%, 45%);
   --black-color: hsl(29, 16%, 10%);
   --text-color: hsl(29, 8%, 65%);
   --body-color: hsl(29, 100%, 99%);
@@ -87,7 +87,7 @@ img {
   padding: 0.75rem;
   border-radius: 3rem;
   text-align: initial;
-  box-shadow: 0 8px 24px hsla(29, 75%, 56%, 0.3);
+  box-shadow: 0 8px 24px hsla(249, 79%, 37%, 0.3);
   position: absolute;
   left: 0;
   right: 0;
