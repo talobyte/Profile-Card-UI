@@ -1,4 +1,3 @@
-
 /*=============== SHOW SOCIAL NETWORKS ===============*/
 const showSocial = (toggleCard, socialCard) =>{
    const toggle = document.getElementById(toggleCard),
